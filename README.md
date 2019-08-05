@@ -1,4 +1,4 @@
-Not so fair dice!
+Not so fair coin!
 
 Two players are playing a game where they flip a not necessarily fair coin, starting with Player 1. 
 The first person to flip heads wins. 
